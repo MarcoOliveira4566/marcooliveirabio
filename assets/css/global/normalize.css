@@ -25,7 +25,7 @@
   }
   ::selection {
     color: #fff;
-    background-color: #84928D;
+    background-color: var(--cor-principal);
   }
   a,img,svg,button {
     -webkit-user-select: none;
