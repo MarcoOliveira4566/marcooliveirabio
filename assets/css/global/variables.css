@@ -1,0 +1,22 @@
+/* Essas são as variáveis para usar no site e ficar mais escalável a edição das coisas */
+:root {
+    --cor-branco: #FFFFFF;
+    --cor-preto: #000000;
+    --cor-claro: #0500FF;
+    --cor-cinza: #;
+    --cor-degrade: linear-gradient(180deg, #03040B 0%, #000122 100%);
+    --cor-escuro: #0B0996;
+    --cor-escuro-2: #03020b95;
+    --cor-escuro-3: #07003995;
+    --cor-principal: #1800B0;
+  
+    --f1: clamp(0.6rem, 1vw, 0.8rem);
+    --f2: clamp(0.8rem, 1vw, 1rem);
+    --f3: clamp(1rem, 1vw, 1.2rem);
+    --f4: clamp(2rem, 1vw, 3rem);
+    --f5: clamp(4rem, 1vw, 6rem);
+  
+    --regular: 'sofia-pro-regular';
+    --bold: 'sofia-pro-black';
+  }
+  

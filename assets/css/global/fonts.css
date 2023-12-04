@@ -1,0 +1,16 @@
+/* Fontes */
+@font-face {
+  font-family: sofia-pro-black;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url(../../files/sofia-pro-black.woff) format("woff")
+}
+
+@font-face {
+  font-family: sofia-pro-regular;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url(../../files/sofia-pro-regular.woff) format("woff")
+}
